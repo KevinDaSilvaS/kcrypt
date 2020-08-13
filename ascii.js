@@ -94,7 +94,7 @@ ascii[`{`] = 123
 ascii[`|`] = 124
 ascii[`}`] = 125
 ascii[`}`] = 126
-ascii[`_`] = 127
+ascii[`DEL`] = 127
 ascii[`€`] = 128
 
 //console.log(ascii);
