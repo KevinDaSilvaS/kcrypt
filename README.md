@@ -7,5 +7,5 @@
   
  <h5>To encrypt:</h5>
 <p>//call unkrypt method</p>
-<p>krypt("GIJ<-->XZ[<-->ikl<-->gij<-->")</p>
+<p>unkrypt("GIJ<-->XZ[<-->ikl<-->gij<-->")</p>
 
