@@ -66,3 +66,8 @@ const codeToChar = (charCode) => {
 console.log(krypt("ARca"));
 console.log(unkrypt("689<-->79:<-->8:;<-->"))
 console.log(unkrypt("GIJ<-->XZ <-->"))
+
+module.exports = {
+    krypt,
+    unkrypt
+}
