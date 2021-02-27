@@ -3,10 +3,16 @@
 <h5>To encrypt:</h5>
 <p>//call krypt method</p>
 <p>krypt("ARca")</p>
-```//outputs: GIJ<-->XZ[<-->ikl<-->gij<-->```
+```
+//outputs: GIJ<-->XZ[<-->ikl<-->gij<-->
+```
  
  <h5>To decrypt:</h5>
 <p>//call unkrypt method</p>
-```unkrypt("GIJ<-->XZ[<-->ikl<-->gij<-->")```
-``` returns "ARca" ```
+```
+unkrypt("GIJ<-->XZ[<-->ikl<-->gij<-->")
+```
+``` 
+returns "ARca" 
+```
 
